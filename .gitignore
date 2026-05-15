@@ -1,0 +1,7 @@
+.vscode/
+.venv/
+.conda/
+__pycache__/
+data/
+.env
+data_/
